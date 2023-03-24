@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Task1/static/css/main.e739d1a4.css",
+    "main.js": "/React-Task1/static/js/main.5bf5654b.js",
+    "static/media/Rectangle_2.png": "/React-Task1/static/media/Rectangle_2.8f785c9d16597b7bcc35.png",
+    "static/media/Rectangle4.png": "/React-Task1/static/media/Rectangle4.68da7a101bfa6f4f96ed.png",
+    "static/media/Rectangle5.png": "/React-Task1/static/media/Rectangle5.542fae9027c731d1ef29.png",
+    "static/media/Rectangle3.png": "/React-Task1/static/media/Rectangle3.d85eb51eac7973d9d645.png",
+    "static/media/abstract.png": "/React-Task1/static/media/abstract.78d9fa04a5d344a8a3a0.png",
+    "index.html": "/React-Task1/index.html",
+    "main.e739d1a4.css.map": "/React-Task1/static/css/main.e739d1a4.css.map",
+    "main.5bf5654b.js.map": "/React-Task1/static/js/main.5bf5654b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e739d1a4.css",
+    "static/js/main.5bf5654b.js"
+  ]
+}
